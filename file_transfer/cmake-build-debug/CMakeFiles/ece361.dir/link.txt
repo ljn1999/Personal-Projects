@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ece361.dir/server.c.o CMakeFiles/ece361.dir/deliver.c.o  -o ece361 
